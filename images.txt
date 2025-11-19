@@ -15,5 +15,7 @@
 # 数据库
 #mysql
 
-yahboomtechnology/ros-foxy
+nginx
+
+
 
