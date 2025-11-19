@@ -15,5 +15,4 @@
 # 数据库
 #mysql
 
-yahboomtechnology
 
