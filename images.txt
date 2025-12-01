@@ -18,25 +18,43 @@
 #nginx
 
 ####ubuntu系统镜像#####
-ubuntu:16.04
-ubuntu:xenial
-ubuntu:xenial-20210804
+#ubuntu:16.04
+#ubuntu:xenial
+#ubuntu:xenial-20210804
 
-ubuntu:18.04
-ubuntu:bionic
-ubuntu:bionic-20230530
+#ubuntu:18.04
+#ubuntu:bionic
+#ubuntu:bionic-20230530
 
-ubuntu:20.04
-ubuntu:focal
-ubuntu:focal-20241011
+#ubuntu:20.04
+#ubuntu:focal
+#ubuntu:focal-20241011
 
-ubuntu:22.04
-ubuntu:jammy
-ubuntu:jammy-20250126
+#ubuntu:22.04
+#ubuntu:jammy
+#ubuntu:jammy-20250126
 
-ubuntu:24.04
-ubuntu:noble
-ubuntu:noble-20250127
+#ubuntu:24.04
+#ubuntu:noble
+#ubuntu:noble-20250127
+
+####ubuntuARM系统镜像#####
+
+--platform=linux/arm64ubuntu:16.04
+--platform=linux/arm64ubuntu:xenial
+--platform=linux/arm64ubuntu:xenial-20210804
+--platform=linux/arm64ubuntu:18.04
+--platform=linux/arm64ubuntu:bionic
+--platform=linux/arm64ubuntu:bionic-20230530
+--platform=linux/arm64ubuntu:20.04
+--platform=linux/arm64ubuntu:focal
+--platform=linux/arm64ubuntu:focal-20241011
+--platform=linux/arm64ubuntu:22.04
+--platform=linux/arm64ubuntu:jammy
+--platform=linux/arm64ubuntu:jammy-20250126
+--platform=linux/arm64ubuntu:24.04
+--platform=linux/arm64ubuntu:noble
+--platform=linux/arm64ubuntu:noble-20250127
 
 
 
