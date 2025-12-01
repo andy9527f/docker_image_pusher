@@ -40,4 +40,4 @@
 
 ####ubuntuARM系统镜像#####
 #--platform linux/arm64 ubuntu:22.04
---platform arm64 osrf/ros:humble-base
+--platform arm64 osrf/ros2:humble-base-full
