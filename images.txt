@@ -39,12 +39,4 @@
 #ubuntu:noble-20250127
 
 ####ubuntuARM系统镜像#####
---platform=linux/arm64ubuntu:22.04
---platform=linux/arm64ubuntu:jammy
---platform=linux/arm64ubuntu:jammy-20250126
---platform=linux/arm64ubuntu:24.04
---platform=linux/arm64ubuntu:noble
---platform=linux/arm64ubuntu:noble-20250127
-
-
-
+--platform linux/amd64 ubuntu:22.04
