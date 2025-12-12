@@ -43,4 +43,4 @@
 
 #rosplanning/navigation2:main
 
-ubuntu22.04-ros2
+osrf/ros:humble-desktop
