@@ -43,4 +43,4 @@
 
 #rosplanning/navigation2:main
 
-osrf/ros:humble-desktop
+osrf/ros:jazzy-desktop
