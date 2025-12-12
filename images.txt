@@ -30,7 +30,7 @@
 #ubuntu:focal
 #ubuntu:focal-20241011
 
-#ubuntu:22.04
+ubuntu:22.04
 #ubuntu:jammy
 #ubuntu:jammy-20250126
 
@@ -41,4 +41,4 @@
 ####ubuntuARM系统镜像#####
 #--platform linux/arm64 ubuntu:22.04
 
-rosplanning/navigation2:main
+#rosplanning/navigation2:main
