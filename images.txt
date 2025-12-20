@@ -43,4 +43,5 @@
 
 #rosplanning/navigation2:main
 
-osrf/ros:jazzy-desktop
+localai/localai:latest-cpu
+localai/localai:latest-gpu
