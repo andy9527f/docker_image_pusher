@@ -44,4 +44,4 @@
 #rosplanning/navigation2:main
 
 localai/localai:latest-cpu
-localai/localai:latest-gpu
+localai/localai:latest-aio-gpu-nvidia-cuda-12
