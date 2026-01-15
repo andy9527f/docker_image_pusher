@@ -43,5 +43,6 @@
 
 #rosplanning/navigation2:main
 
-localai/localai:latest-cpu
-localai/localai:latest-aio-gpu-nvidia-cuda-12
+#localai/localai:latest-cpu
+#localai/localai:latest-aio-gpu-nvidia-cuda-12
+nvcr.io/nvidia/pytorch:25.04-py3
