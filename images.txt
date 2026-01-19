@@ -45,4 +45,4 @@
 
 #localai/localai:latest-cpu
 #localai/localai:latest-aio-gpu-nvidia-cuda-12
-huobao-drama:latest
+huobao/huobao-drama:latest
